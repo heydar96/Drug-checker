@@ -1,0 +1,5 @@
+{
+  "name": "DrugCheck Sentinel",
+  "description": "A regulatory compliance tool to verify if a drug is a controlled substance, narcotic, or psychotropic agent using AI analysis.",
+  "requestFramePermissions": []
+}
